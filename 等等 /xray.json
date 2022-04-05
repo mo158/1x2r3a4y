@@ -19,7 +19,7 @@
         {
             "port": 4234,"listen": "127.0.0.1","tag": "onetag","protocol": "dokodemo-door",
             "settings": {"address": "v1.mux.cool","network": "tcp","followRedirect": false},
-            "streamSettings": {"security": "none","network": "ws","wsSettings": {"path": "/$AUUID-ss"}}
+            "streamSettings": {"security": "none","network": "ws","wsSettings": {"path": "/$AUUID-sss"}}
         },
         {
             "port": 4324,"listen": "127.0.0.1","protocol": "shadowsocks",
